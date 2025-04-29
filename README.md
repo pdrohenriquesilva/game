@@ -1,5 +1,5 @@
 ### 🚀 **Setup Guide:**
-   ```
+
 1. Set up the backend:
    ```bash
    cd ./backend
